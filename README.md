@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Whethally</h1>
 <h3 align="center">Full Stack Web Developer from Russia</h3>
 
-- 🔭 I’m currently working on [LYAGUSHACHYA_MORDA](https://github.com/Whethally/lyagushachya_morda)
+- 🔭 I’m currently working on [LYAGUSHACHYA_MORDA](https://lyagushachyamorda.ru/)
 
 - 🌱 I’m currently learning **React**
 
